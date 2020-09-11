@@ -1,0 +1,13 @@
+.spectacular {
+  color: paleturquoise;
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.main-title {
+  transition: all 0.5s ease; /* We have transition in but also out */
+}
+
+.fade {
+  opacity: 0;
+}
